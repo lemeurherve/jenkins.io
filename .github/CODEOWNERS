@@ -16,6 +16,14 @@ content/doc/book/resources/security/ @jenkins-infra/security
 content/doc/developer/security/ @jenkins-infra/security
 content/security/ @jenkins-infra/security
 
+# Infrastructure
+content/projects/infrastructure @jenkins-infra/jenkins-infra-sre-team
+content/infra @jenkins-infra/jenkins-infra-sre-team
+content/download @jenkins-infra/jenkins-infra-sre-team
+docker @jenkins-infra/jenkins-infra-sre-team
+Jenkinsfile_k8s @jenkins-infra/jenkins-infra-sre-team
+Makefile @jenkins-infra/jenkins-infra-sre-team
+
 # Teams without GitHub aliases
 # content/events - Event organizers, Advocacy and Outreach SIG
 # contents/sigs - Special interest group leaders, unless another process is defined
